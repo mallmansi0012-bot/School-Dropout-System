@@ -19,4 +19,7 @@ Students with attendance below 75% are marked as "At Risk".
 - Structures
 - Arrays
 
+
 ## ▶️ How to Run
+gcc dropout.c -o dropout
+./dropout
